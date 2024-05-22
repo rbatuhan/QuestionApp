@@ -10,3 +10,5 @@ En son doğru yanlış sayısı görülmektedir.
 
 Proje kapsamında React kullanılmıştır.
 
+
+https://statuesque-madeleine-8649a6.netlify.app/
